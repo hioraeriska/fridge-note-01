@@ -12,6 +12,18 @@ The note:
 
 ## Run it
 
+## Why this note works
+
+A smart fridge knows two things the owner would rather forget: the exact
+date on the carton, and how many days have passed since. The note lets the
+fridge play the patient witness — it warned the owner on Tuesday, it watched
+the carton sit, and by Friday the owner is still standing at the open door,
+sniffing the milk as if the smell might file an appeal. Nothing in the note
+is a rant; the whole grudge fits inside one small domestic habit, and the
+last clause turns the sniff test into a courtroom scene where the milk is
+the one being asked to apologise. That reversal is the joke: the appliance
+is the responsible adult in the kitchen, and the human is the one on trial.
+
 ```sh
 MAKEFUN_OUTPUT_DIR=/tmp/out node main.ts
 cat /tmp/out/entry.txt
